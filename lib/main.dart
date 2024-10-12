@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      debugShowCheckedModeBanner: false, // Disable the debug banner here
+      debugShowCheckedModeBanner: false,
       home: HomePage(),
     );
   }
