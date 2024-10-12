@@ -1,6 +1,9 @@
 # shop
 
-A new Flutter project.
+A new Flutter project. shop managemnet user interface
+![screenshot](assets/images/1.png)
+![screenshot](assets/images/2.png)
+
 
 ## Getting Started
 
